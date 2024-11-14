@@ -53,4 +53,9 @@
         android:layout_marginRight="20dp"
         android:text="Snack Bar Notification" />
 
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
 </LinearLayout>
